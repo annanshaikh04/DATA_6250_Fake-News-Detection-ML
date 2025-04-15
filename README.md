@@ -131,7 +131,7 @@ If more time available:
 - Name: Annanahmed Furkanahmed Shaikh  
 - MS Data Science | Wentworth Institute of Technology  
 - Course: DATA 6250 — Machine Learning for Data Science  
-- Instructor: Dr. Memo Ergezer  
+- Instructor: Prof. Memo Ergezer  
 - Email: shaikha4@wit.edu  
 
 ---
